@@ -39,7 +39,7 @@ cargo build --release
 
 ```bash
 cp target/release/bhsh /usr/local/bin/
-
+```
 
 **It's also available on Arch User Repository for those who use ArchLinux with the package name `bhsh`**
 
