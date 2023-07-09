@@ -1,0 +1,15 @@
+[package]
+name = "bhsh"
+version = "0.1.0"
+edition = "2021"
+authors = ["Zola Gonano <zolagonano@protonmail.com>"]
+description = "A Unix-like blackhole shell"
+keywords = ["shell", "linux", "cli"]
+categories = ["command-line-utilities"]
+license = "MIT"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ctrlc = "3.4.0"
